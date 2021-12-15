@@ -262,6 +262,7 @@ namespace HesapMakinesi
         }
         private void btnEqual_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("ALKSDJKLJSD");
             double secondNumber = Convert.ToDouble(lbScreen.Text);
             double result;
             _isClear = true;

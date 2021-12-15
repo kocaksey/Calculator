@@ -8,3 +8,13 @@ C:\Users\skocak\Desktop\hesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\Hesa
 C:\Users\skocak\Desktop\hesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
 C:\Users\skocak\Desktop\hesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
 C:\Users\skocak\Desktop\hesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.frmCalculator.resources
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\skocak\Desktop\My_Repo\Calculator\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
